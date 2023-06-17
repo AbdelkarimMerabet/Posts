@@ -1,0 +1,11 @@
+.navbar{
+    height: 70px; 
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: 600;
+    padding:34px 21px;
+}
+.nav-link:hover{
+    color: #ee2f2f !important;
+}
